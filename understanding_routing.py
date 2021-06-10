@@ -18,7 +18,7 @@ def say(name):
 def repeat(num, word):
     print(num)
     print(word)
-    return int(num) * str(word)
+    return (num) * (word)
 
 # BONUS!
 
